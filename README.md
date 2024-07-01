@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://i.ibb.co/0VNWrd4/fabian-grohs-423591-unsplash.jpg" alt="preetu10" /> </p>
+<p align="center"><img align="center" src="https://i.ibb.co/0VNWrd4/fabian-grohs-423591-unsplash.jpg" alt="preetu10" width="750px" height="350px" /> </p>
 
 <!--
 **preetu10/preetu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
