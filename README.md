@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img align="center" src="https://www.freepik.com/free-photo/html-css-collage-concept_36295536.htm#query=web%20developer&position=35&from_view=keyword&track=ais_user&uuid=bd1034b5-d07c-4294-a16d-a8f905104566" alt="preetu10" /> </p>
 
 <!--
 **preetu10/preetu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
