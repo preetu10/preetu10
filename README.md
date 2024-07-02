@@ -11,23 +11,22 @@
 I am an ambitious web developer currently pursuing  BSc (Engg) in Computer Science and Engineering at the University of Chittagong. I specialize in developing dynamic and responsive web applications that effectively address complex challenges. Fascinated by AI, I also delve into cutting-edge technologies to explore its transformative potential across diverse sectors. <br>
 Leading the charge in web development trends, I emphasize collaboration and innovation to consistently deliver exceptional outcomes. Known for my meticulous attention to detail and a steadfast commitment to excellence, I approach problem-solving with ingenuity and efficiency, continually pushing boundaries in every project.
 </p>
-
-<p align="center"Let's Get In Touch:</p>
-
+<br>
+<div align="center">
+<h3 align="center">Let's Get In Touch:</h3>
 <p align="center"><a href="https://x.com/MahfujaPreety"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/mahfuja-yesmin-preety"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:mahfujasolaiman77@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a>
-
 </p>
-
+</div>
+<br>
 <p align=center>
   <a href="https://github.com/preetu10?tab=repositories">
     <img src="https://badges.pufler.dev/repos/preetu10?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
 <div align="center"><p align="center">
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=preetu10&theme=algolia&hide_border=false&show_icons=true">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=preetu10&layout=compact&theme=react" width="350" height="190">
