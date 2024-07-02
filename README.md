@@ -11,7 +11,7 @@
 I am an ambitious web developer currently pursuing  BSc (Engg) in Computer Science and Engineering at the University of Chittagong. I specialize in developing dynamic and responsive web applications that effectively address complex challenges. Fascinated by AI, I also delve into cutting-edge technologies to explore its transformative potential across diverse sectors. <br>
 Leading the charge in web development trends, I emphasize collaboration and innovation to consistently deliver exceptional outcomes. Known for my meticulous attention to detail and a steadfast commitment to excellence, I approach problem-solving with ingenuity and efficiency, continually pushing boundaries in every project.
 </p>
-<br>
+
 <div align="center">
 <h3 align="center">Let's Get In Touch:</h3>
 <p align="center"><a href="https://x.com/MahfujaPreety"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
