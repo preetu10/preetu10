@@ -20,7 +20,7 @@ Leading the charge in web development trends, I emphasize collaboration and inno
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/preetu10?tab=repositories">
     <img src="https://badges.pufler.dev/repos/preetu10?style=flat-square&color=black&logo=github">
   </a>
 </p>
