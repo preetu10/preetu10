@@ -27,7 +27,7 @@ Leading the charge in web development trends, I emphasize collaboration and inno
 
 <div align="center"><p align="center">
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=preetu10&theme=algolia&hide_border=false&show_icons=true">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=preetu10&layout=compact" width="390" height="200">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=preetu10&layout=compact" width="350" height="200">
 </p></div>
 <br>
 
