@@ -15,7 +15,7 @@ Leading the charge in web development trends, I emphasize collaboration and inno
 <p align="center"Let's Get In Touch:</p>
 
 <p align="center"><a href="https://x.com/MahfujaPreety"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="www.linkedin.com/in/mahfuja-yesmin-preety"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/mahfuja-yesmin-preety"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mahfujasolaiman77@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
