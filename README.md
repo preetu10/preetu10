@@ -55,7 +55,7 @@ Leading the charge in web development trends, I emphasize collaboration and inno
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="45">
 
 <!-- Express.js -->
-<img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" height="45">
+<img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" height="40">
 
 <!-- MongoDB -->
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="45">
@@ -67,7 +67,7 @@ Leading the charge in web development trends, I emphasize collaboration and inno
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" height="45">
 
 <!-- Prisma -->
-<img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" height="35">
+<img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" height="30">
 
 <!-- Stripe -->
 <img src="https://img.icons8.com/ios-filled/50/000000/stripe.png" alt="Stripe" height="45">
