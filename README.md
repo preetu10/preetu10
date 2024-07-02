@@ -1,8 +1,8 @@
 <p align="center"><img align="center" src="https://i.ibb.co/0VNWrd4/fabian-grohs-423591-unsplash.jpg" alt="preetu10" width="900px" height="500px" /> </p>
-<h1 align="center">👋 Hello! I'm Mahfuja Yesmin</h1>
+<h1 align="center"> Hello! I'm Mahfuja Yesmin</h1>
 
 <p align="center">
-I am an ambitious web developer currently pursuing a BSc in Computer Science and Engineering at the University of Chittagong. Proficient in React, I specialize in developing dynamic and responsive web applications that effectively address complex challenges. Fascinated by AI, I delve into cutting-edge technologies to explore its transformative potential across diverse sectors. <br>
+I am an ambitious web developer currently pursuing  BSc (Engg) in Computer Science and Engineering at the University of Chittagong. Proficient in React, I specialize in developing dynamic and responsive web applications that effectively address complex challenges. Fascinated by AI, I delve into cutting-edge technologies to explore its transformative potential across diverse sectors. <br>
 Leading the charge in web development trends, I emphasize collaboration and innovation to consistently deliver exceptional outcomes. Known for my meticulous attention to detail and a steadfast commitment to excellence, I approach problem-solving with ingenuity and efficiency, continually pushing boundaries in every project.
 </p>
 
