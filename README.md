@@ -1,10 +1,13 @@
 <p align="center"><img align="center" src="https://i.ibb.co/0VNWrd4/fabian-grohs-423591-unsplash.jpg" alt="preetu10" width="900px" height="500px" /> </p>
+<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=preetu10&style=flat-square">
 <h1 align="center"> Hello! I'm Mahfuja Yesmin</h1>
 
 <p align="center">
 I am an ambitious web developer currently pursuing  BSc (Engg) in Computer Science and Engineering at the University of Chittagong. I specialize in developing dynamic and responsive web applications that effectively address complex challenges. Fascinated by AI, I also delve into cutting-edge technologies to explore its transformative potential across diverse sectors. <br>
 Leading the charge in web development trends, I emphasize collaboration and innovation to consistently deliver exceptional outcomes. Known for my meticulous attention to detail and a steadfast commitment to excellence, I approach problem-solving with ingenuity and efficiency, continually pushing boundaries in every project.
 </p>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 <!--
 **preetu10/preetu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
